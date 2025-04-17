@@ -1,0 +1,310 @@
+{
+	"IHA": {
+		"Frankfurt Freaks": {
+			"GP": 8,
+			"OTW": 1,
+			"L": 3,
+			"P": 8,
+			"W": 2,
+			"OTL": 2,
+			"+/-": -4,
+			"points": 0,
+			"players": [
+				"Greg Gregg",
+				"Anatolyi Tarasov",
+				"Rauf Bold",
+				"LJ Potty",
+				"Ja'Micheal Smith",
+				"James Hogan",
+				"Ivan Pavlovich",
+				"Stefan Artovic",
+				"Justyn Carr",
+				"Holton Ganwer",
+				"Kim Jung-Un",
+				"Ruben Battle"
+			],
+			"player_stats": {
+				"Greg Gregg": {
+					"Height": "6ft6",
+					"Weight": "212",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "Offensive Defensemen",
+					"Position": "RD",
+					"Number": "41"
+				},
+				"Anatolyi Tarasov": {
+					"Height": "6ft7",
+					"Weight": "250",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Russia",
+					"Archetype": "Enforcer",
+					"Position": "RD/LD",
+					"Number": "3"
+				},
+				"Rauf Bold": {
+					"Height": "6ft2",
+					"Weight": "180",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Sniper",
+					"Position": "LW",
+					"Number": "68"
+				},
+				"LJ Potty": {
+					"Height": "5ft11",
+					"Weight": "215",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "Playmaker",
+					"Position": "RW",
+					"Number": "17"
+				},
+				"Ja'Micheal Smith": {
+					"Height": "6ft3",
+					"Weight": "210",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "Sniper",
+					"Position": "C",
+					"Number": "7"
+				},
+				"James Hogan": {
+					"Height": "6ft5",
+					"Weight": "220",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "Sniper",
+					"Position": "RW",
+					"Number": "16"
+				},
+				"Ivan Pavlovich": {
+					"Height": "6ft9",
+					"Weight": "270",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Enforcer",
+					"Position": "LW",
+					"Number": "1"
+				},
+				"Stefan Artovic": {
+					"Height": "6ft1",
+					"Weight": "183",
+					"Age": "20",
+					"Shooting Hand": "Left",
+					"Nationality": "Romania",
+					"Archetype": "Sniper",
+					"Position": "LW",
+					"Number": "8"
+				},
+				"Justyn Carr": {
+					"Height": "6ft4",
+					"Weight": "225",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Playmaker",
+					"Position": "LW",
+					"Number": "42"
+				},
+				"Holton Ganwer": {
+					"Height": "6ft3",
+					"Weight": "216",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "2-Way Defensemen",
+					"Position": "LD/RD",
+					"Number": "25"
+				},
+				"Kim Jung-Un": {
+					"Height": "5ft7",
+					"Weight": "217",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "North Korea",
+					"Archetype": "Hybrid",
+					"Position": "Goalie",
+					"Number": "18"
+				},
+				"Ruben Battle": {
+					"Height": "6ft4",
+					"Weight": "196",
+					"Age": "20",
+					"Shooting Hand": "Right",
+					"Nationality": "USA",
+					"Archetype": "Butterfly",
+					"Position": "Goalie",
+					"Number": "5"
+				}
+			}
+		},
+		"Kansas City Roughriders": {
+			"GP": 7,
+			"OTW": 0,
+			"L": 5,
+			"P": 2,
+			"W": 0,
+			"OTL": 2,
+			"+/-": -13,
+			"points": 0,
+			"players": [
+				"Zebra Orange",
+				"Gabriel Huchin",
+				"Matthew Knies II",
+				"Treehouse Mountain",
+				"Lon John Silver III"
+			],
+			"player_stats": {
+				"Zebra Orange": {
+					"Height": "6ft2",
+					"Weight": "200",
+					"Age": "20",
+					"Shooting Hand": "Left",
+					"Nationality": "Canada",
+					"Archetype": "2-Way Forward",
+					"Position": "C/RW",
+					"Number": "37"
+				},
+				"Gabriel Huchin": {
+					"Height": "6ft4",
+					"Weight": "225",
+					"Age": "20",
+					"Shooting Hand": "Right",
+					"Nationality": "England/Italy",
+					"Archetype": "2-Way Forward",
+					"Position": "C/RW",
+					"Number": "98"
+				},
+				"Matthew Knies II": {
+					"Height": "6ft3",
+					"Weight": "217",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Power Forward",
+					"Position": "LW",
+					"Number": "23"
+				},
+				"Treehouse Mountain": {
+					"Height": "6ft1",
+					"Weight": "203",
+					"Age": "20",
+					"Shooting Hand": "Left",
+					"Nationality": "Ireland",
+					"Archetype": "Sniper",
+					"Position": "C/LW",
+					"Number": "16"
+				},
+				"Lon John Silver III": {
+					"Height": "6ft9",
+					"Weight": "270",
+					"Age": "20",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Hybrid",
+					"Position": "Goalie",
+					"Number": "87"
+				}
+			}
+		},
+		"Denver Mountain Lions": {
+			"GP": 7,
+			"OTW": 1,
+			"L": 2,
+			"P": 10,
+			"W": 4,
+			"OTL": 0,
+			"+/-": 2,
+			"points": 0,
+			"players": [
+				"Jakub Alexa",
+				"Al West",
+				"Clair Ruhig",
+				"Planet CaseOh",
+				"Future Considerations",
+				"Amy Ford",
+				"Jo Jo"
+			],
+			"player_stats": {
+				"Jakub Alexa": {
+					"Height": "5ft11",
+					"Weight": "Minimum",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Czechia",
+					"Archetype": "Defensive D-men",
+					"Position": "LD/RD",
+					"Number": "88"
+				},
+				"Al West": {
+					"Height": "6ft3",
+					"Weight": "175",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "USA",
+					"Archetype": "Sniper",
+					"Position": "LW",
+					"Number": "13"
+				},
+				"Clair Ruhig": {
+					"Height": "6ft2",
+					"Weight": "265",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "2-Way D-men",
+					"Position": "LD/RD",
+					"Number": "27"
+				},
+				"Planet CaseOh": {
+					"Height": "5ft11",
+					"Weight": "250",
+					"Age": "21",
+					"Shooting Hand": "Left",
+					"Nationality": "Unknown",
+					"Archetype": "Grinder",
+					"Position": "RW",
+					"Number": "7"
+				},
+				"Future Considerations": {
+					"Height": "6ft1",
+					"Weight": "170",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "USA",
+					"Archetype": "Playmaker",
+					"Position": "LW",
+					"Number": "20"
+				},
+				"Amy Ford": {
+					"Height": "5ft9",
+					"Weight": "165",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "USA",
+					"Archetype": "2-Way D-men",
+					"Position": "LD/RD",
+					"Number": "50"
+				},
+				"Jo Jo": {
+					"Height": "6ft6",
+					"Weight": "350",
+					"Age": "21",
+					"Shooting Hand": "Right",
+					"Nationality": "Unknown",
+					"Archetype": "Hybrid",
+					"Position": "Goalie",
+					"Number": "12"
+				}
+			}
+		}
+	}
+}
